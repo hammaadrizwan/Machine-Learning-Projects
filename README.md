@@ -1,6 +1,6 @@
 # Machine-Learning-Projects
 
-## Related Projects:
+Project Links:
 
 1. [Create Melodies using LSTM](https://github.com/hammaadrizwan/Generative-AI-Create-Melodies-using-LSTM)
 
