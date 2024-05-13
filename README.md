@@ -8,4 +8,4 @@ Project Links:
 
 3. [Retail Sales Prediction using XGboost](https://github.com/hammaadrizwan/marketwiz/tree/Hammaad)
 
-4. [ACL Detection using MRI](https://github.com/hammaadrizwan/ACL-Tear-Detection-Using-MRI)
+5. [Air Quality Prediction](https://github.com/hammaadrizwan/HCHO-Time-Series-Predictor)
