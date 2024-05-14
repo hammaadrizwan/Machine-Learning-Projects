@@ -2,7 +2,7 @@
 
 Project Links:
 
-1. [marketwiz](https://github.com/hammaadrizwan/marketwiz)
+1. [Income Classification](https://github.com/hammaadrizwan/Income-Classifier-using-Ensemble-algorithm)
 
 1. [Fare Amount Predicting Model](https://github.com/hammaadrizwan/Fare-Amount-predicting-model)
 
