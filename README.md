@@ -2,10 +2,10 @@
 
 Project Links:
 
-1. [Create Melodies using LSTM](https://github.com/hammaadrizwan/Generative-AI-Create-Melodies-using-LSTM)
+1. [marketwiz](https://github.com/hammaadrizwan/marketwiz)
 
-2. [Fare Amount Predicting Model](https://github.com/hammaadrizwan/Fare-Amount-predicting-model)
+1. [Fare Amount Predicting Model](https://github.com/hammaadrizwan/Fare-Amount-predicting-model)
 
-3. [Retail Sales Prediction using XGboost](https://github.com/hammaadrizwan/marketwiz/tree/Hammaad)
+2. [Retail Sales Prediction using XGboost](https://github.com/hammaadrizwan/marketwiz/tree/Hammaad)
 
-4. [Air Quality Prediction](https://github.com/hammaadrizwan/HCHO-Time-Series-Predictor)
+3. [Air Quality Prediction](https://github.com/hammaadrizwan/HCHO-Time-Series-Predictor)
